@@ -1,0 +1,1 @@
+Terraform scripts to setup aws vpc endpoint (type = interface) to establish connectivity between ec2 instance and S3 using private AWS network
